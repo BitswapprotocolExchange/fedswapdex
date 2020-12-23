@@ -1,10 +1,10 @@
-# SushiSwap Classic Exchange Interface
+# Fedswap Exchange interface
 
-Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface), and updated to work with SushiSwap contracts.
+Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface), and updated to work with fedswap contracts.
 
-## Accessing the SushiSwap Classic Exchange Interface
+## Accessing the Fedswap Exchange Interface
 
-To access the SushiSwap Exchnage, visit [exchange.sushiswapclassic.org](https://exchange.sushiswapclassic.org/#/).
+To access the SushiSwap Exchnage, visit [fed.finance]
 
 ## Development
 
