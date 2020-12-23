@@ -4,7 +4,7 @@ Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-inter
 
 ## Accessing the Fedswap Exchange Interface
 
-To access the SushiSwap Exchnage, visit [fed.finance]
+To access the fedswap Exchnage, visit [fed.finance]
 
 ## Development
 
