@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/interface",
-  "description": "Uniswap Interface",
+  "name": "@fedswap/interface",
+  "description": "fedswap",
   "homepage": ".",
   "private": true,
   "devDependencies": {
